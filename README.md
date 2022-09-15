@@ -1,2 +1,2 @@
 # whowse
-OPS445 stuff
+William Howse OPS445 NAA
